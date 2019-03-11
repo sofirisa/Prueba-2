@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+#sec-home{
+	font-family: 'Poppins', sans-serif;
+	background-image:url(../img/home-header-bg.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 300px 40px;
+	
+	}
+.btn-rectangulo1{
+	background-color: #fba755;
+	color: #FFFFFF;
+	padding: 20px 20px;
+	border: #fba755;
+ }
+.btn-rectangulo2{
+	background-color: #fff;
+	color: #000;
+	padding: 20px 20px;
+}
+
+#sec-home h2{
+	color: rgba(255,255,255,1.00);
+	margin-bottom: 30px;
+	font-size: 55px;
+	text-align: left;
+	margin-top: 10px;
+}
+
+#sec-coaches{
+	font-family: 'Poppins', sans-serif;
+	padding: 100px;
+}
+
+#sec-coaches h2{
+	text-align: center;
+	font-weight: 700;
+	margin-bottom: 50px;
+	font-size: 55px;
+
+}
+#sec-coaches h4{
+	text-align: center;
+	margin-top: 20px;
+}
+#sec-coaches p{
+	text-align: center;
+	margin-top: 20px;
+	color: #7e7979;
+}
+#sec-about{
+	font-family: 'Poppins', sans-serif;
+	padding: 80px;
+}
+#sec-about p{
+	color: #7e7979;
+	margin-left: 20px;
+	font-size: 15px;
+}
+#sec-about h4{
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+#sec-about img{
+	text-align: center;
+	
+}
+#sec-gallery{
+font-family: 'Poppins', sans-serif;
+}
+
+.foto{
+	position: relative;
+	overflow: hidden;
+	 }
+
+#footer{
+	font-family: 'Poppins', sans-serif;
+	padding: 20px;
+	text-align: center;
+	background-color: #272525;
+	color: #fba755;
+}
